@@ -1,0 +1,2 @@
+# Employee-Details-Management-using-Django-REST-API
+This application demonstrate the use of DRF for performing CRUD operation on employee details in the database. For doing so, the Django REST API are used to transfer the data in he JSON format.  Here the data like address details, work experience etc, are generaly a buch of few details, so here I used the concept of NESTED DICTIONARIES for the same.
